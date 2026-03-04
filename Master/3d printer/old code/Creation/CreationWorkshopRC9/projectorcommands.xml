@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectorCmdList FileVersion="1">
+  <Command>
+    <Name>ON</Name>
+    <IsHex>False</IsHex>
+    <Cmd>fefefefe</Cmd>
+  </Command>
+</ProjectorCmdList>

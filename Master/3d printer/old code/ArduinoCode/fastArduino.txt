@@ -1,0 +1,4 @@
+ TCCR3B &= ~7;
+  TCCR3B |= 2;
+  TCCR4B &= ~7;
+  TCCR4B |= 2;

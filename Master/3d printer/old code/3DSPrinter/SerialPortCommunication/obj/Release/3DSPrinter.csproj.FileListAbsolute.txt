@@ -1,0 +1,9 @@
+C:\Users\Lewis\Desktop\3DSPrinter\SerialPortCommunication\bin\Release\SerialPortCommunication.exe.config
+C:\Users\Lewis\Desktop\3DSPrinter\SerialPortCommunication\obj\Release\SerialPortCommunication.exe
+C:\Users\Lewis\Desktop\3DSPrinter\SerialPortCommunication\obj\Release\SerialPortCommunication.pdb
+C:\Users\Lewis\Desktop\3DSPrinter\SerialPortCommunication\bin\Release\SerialPortCommunication.exe
+C:\Users\Lewis\Desktop\3DSPrinter\SerialPortCommunication\bin\Release\SerialPortCommunication.pdb
+C:\Users\Lewis\Desktop\3DSPrinter\SerialPortCommunication\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Lewis\Desktop\3DSPrinter\SerialPortCommunication\obj\Release\PCComm.frmMain.resources
+C:\Users\Lewis\Desktop\3DSPrinter\SerialPortCommunication\obj\Release\PCComm.Properties.Resources.resources
+C:\Users\Lewis\Desktop\3DSPrinter\SerialPortCommunication\obj\Release\3DSPrinter.csproj.GenerateResource.Cache

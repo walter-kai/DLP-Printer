@@ -1,0 +1,11 @@
+18:53:41.819> Changing driver type to eGENERIC
+18:53:41.823> Info:No Key Ring found
+18:53:41.826> Info:Loaded plugin plugTest
+18:53:42.124> Changing driver type to eGENERIC
+18:53:45.276> Connecting to Printer on COM6 using eGENERIC
+18:53:45.342> Device Connected
+18:53:45.347> Can't find screen DISPLAY2
+18:53:45.365> The port 'COM13' does not exist.
+18:54:23.112> Disconnecting from Printer
+18:54:23.183> Device Disconnected
+18:54:23.266> Device Disconnected

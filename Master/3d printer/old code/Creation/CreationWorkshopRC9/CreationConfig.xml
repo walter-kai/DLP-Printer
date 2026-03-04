@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationConfig FileVersion="1">
+  <LastModelName>
+  </LastModelName>
+  <SliceProfileName>default.slicing</SliceProfileName>
+  <MachineProfileName>Default_SLA.machine</MachineProfileName>
+  <AutoConnect>False</AutoConnect>
+  <LoadLastModel>True</LoadLastModel>
+  <Slic3rLocation>E:\CAD_3D_PRINTING\Slic3r\slic3r.exe</Slic3rLocation>
+  <ForegroundColor>Color [White]</ForegroundColor>
+  <BackgroundColor>Color [Black]</BackgroundColor>
+  <PreviewSlices>True</PreviewSlices>
+  <Preview3dSlice>True</Preview3dSlice>
+  <Preview3dSliceHeight>False</Preview3dSliceHeight>
+  <DriverLogging>False</DriverLogging>
+  <IgnoreGCRsp>False</IgnoreGCRsp>
+  <ShowBoundingBox>False</ShowBoundingBox>
+  <Slic3rParams>
+  </Slic3rParams>
+  <LicenseKey>00000000000000000000</LicenseKey>
+  <ShowOutline>False</ShowOutline>
+  <ShowShaded>True</ShowShaded>
+</ApplicationConfig>
