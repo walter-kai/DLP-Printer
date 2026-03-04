@@ -1,6 +1,0 @@
-- Test both motors going at once.
-- Create soldering for arduino.
-- Add save feature that sets and gets printer settings
-- Add/Test duplicate monitor support for print
-- Stop button support
-- Brake for motors support
